@@ -1,2 +1,7 @@
 # github_test_projects
-lesson github...
+
+私自身のGithubの使い方練習リポ
+
+
+
+
